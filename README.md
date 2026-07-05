@@ -8,19 +8,18 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=1000&color=00C9FF&background=00000000&center=true&vCenter=true&width=680&height=44&lines=Building+things+with+JavaScript.;Dark+mode+native.+Isometric+by+choice.;Every+skyline+starts+at+zero.">
-    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=1000&color=0969DA&background=00000000&center=true&vCenter=true&width=680&height=44&lines=Building+things+with+JavaScript.;Dark+mode+native.+Isometric+by+choice.;Every+skyline+starts+at+zero." alt="Building things with JavaScript.">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=1000&color=00C9FF&background=00000000&center=true&vCenter=true&width=680&height=44&lines=Building+things+with+JavaScript.;Dark+mode+native.+Isometric+by+choice.">
+    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=1000&color=0969DA&background=00000000&center=true&vCenter=true&width=680&height=44&lines=Building+things+with+JavaScript.;Dark+mode+native.+Isometric+by+choice." alt="Building things with JavaScript.">
   </picture>
 </p>
 
 <h2 align="center">🌆 skyline</h2>
-<p align="center"><sub>each block is a day · height = commits · rendered by robots</sub></p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/steadyprobe/steadyprobe/main/profile-3d-contrib/profile-skyline-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/steadyprobe/steadyprobe/main/profile-3d-contrib/profile-skyline-light.svg">
-    <img width="100%" src="https://raw.githubusercontent.com/steadyprobe/steadyprobe/main/profile-3d-contrib/profile-skyline-dark.svg" alt="isometric 3D render of my contribution graph — a city that grows one commit at a time">
+    <img width="100%" src="https://raw.githubusercontent.com/steadyprobe/steadyprobe/main/profile-3d-contrib/profile-skyline-dark.svg" alt="isometric 3D view of my GitHub contribution graph">
   </picture>
 </p>
 
@@ -33,7 +32,7 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/JavaScript-the_entire_stack-f7df1e?style=for-the-badge&labelColor=161b22&logo=javascript&logoColor=f7df1e" alt="JavaScript — the entire stack" />
   <br/><br/>
-  <sub><b>browser · server · tooling</b> — every floor of this city gets poured from the same yellow block</sub>
+  <sub><b>browser · server · tooling</b></sub>
 </div>
 
 <h2 align="center">📐 on the drawing board</h2>
@@ -45,15 +44,11 @@
 │          /     /|         structure   [redacted]
 │         /_____/ |         material    JavaScript
 │         |     | |         crew        1 · just me
-│         | ??? | /         status      breaking ground
+│         | ??? | /         status      drafting
 │         |_____|/
-│
-│         [██░░░░░░░░░░░░░░░░░░]  foundations · 10%
 │
 └───────────────────────────────────────────────────────────
 ```
-
-<p align="center"><sub>plot 001 — reserved</sub></p>
 
 <h2 align="center">📊 site telemetry</h2>
 
@@ -66,8 +61,6 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=steadyprobe&hide_border=true&background=161b22&stroke=161b22&ring=a371f7&fire=f7df1e&currStreakNum=e6edf3&sideNums=00c9ff&currStreakLabel=00c9ff&sideLabels=8b949e&dates=8b949e&card_width=400">
     <img height="165" src="https://streak-stats.demolab.com/?user=steadyprobe&hide_border=true&background=f6f8fa&stroke=f6f8fa&ring=8250df&fire=bc4c00&currStreakNum=1f2328&sideNums=0969da&currStreakLabel=0969da&sideLabels=57606a&dates=57606a&card_width=400" alt="contribution streak">
   </picture>
-  <br/><br/>
-  <sub>every counter starts at zero — zero is a foundation</sub>
 </div>
 
 <h2 align="center">📡 comms tower</h2>
@@ -76,8 +69,6 @@
   <img src="https://img.shields.io/badge/status-heads--down_building-00c9ff?style=for-the-badge&labelColor=161b22" alt="status: heads-down building" />
   <img src="https://img.shields.io/badge/contact-right_here_on_GitHub-a371f7?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" alt="contact: right here on GitHub" />
   <img src="https://img.shields.io/badge/antennas-offline_by_design-f7df1e?style=for-the-badge&labelColor=161b22" alt="antennas: offline by design" />
-  <br/><br/>
-  <sub>zero external links, on purpose — GitHub is the address.</sub>
 </div>
 
 <br/>
