@@ -18,9 +18,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/steadyprobe/steadyprobe/main/profile-3d-contrib/profile-night-view.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/steadyprobe/steadyprobe/main/profile-3d-contrib/profile-green-animate.svg">
-    <img width="100%" src="https://raw.githubusercontent.com/steadyprobe/steadyprobe/main/profile-3d-contrib/profile-night-view.svg" alt="isometric 3D render of my contribution graph — a city that grows one commit at a time">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/steadyprobe/steadyprobe/main/profile-3d-contrib/profile-skyline-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/steadyprobe/steadyprobe/main/profile-3d-contrib/profile-skyline-light.svg">
+    <img width="100%" src="https://raw.githubusercontent.com/steadyprobe/steadyprobe/main/profile-3d-contrib/profile-skyline-dark.svg" alt="isometric 3D render of my contribution graph — a city that grows one commit at a time">
   </picture>
 </p>
 
