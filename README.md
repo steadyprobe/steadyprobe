@@ -8,13 +8,13 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=1000&color=00C9FF&background=00000000&center=true&vCenter=true&width=680&height=44&lines=Building+things+with+JavaScript.;Blueprints+drawn.+Cranes+moving.;Every+skyline+starts+at+zero.">
-    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=1000&color=0969DA&background=00000000&center=true&vCenter=true&width=680&height=44&lines=Building+things+with+JavaScript.;Blueprints+drawn.+Cranes+moving.;Every+skyline+starts+at+zero." alt="Building things with JavaScript.">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=1000&color=00C9FF&background=00000000&center=true&vCenter=true&width=680&height=44&lines=Building+things+with+JavaScript.;Dark+mode+native.+Isometric+by+choice.;Every+skyline+starts+at+zero.">
+    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=1000&color=0969DA&background=00000000&center=true&vCenter=true&width=680&height=44&lines=Building+things+with+JavaScript.;Dark+mode+native.+Isometric+by+choice.;Every+skyline+starts+at+zero." alt="Building things with JavaScript.">
   </picture>
 </p>
 
 <h2 align="center">🌆 skyline</h2>
-<p align="center"><sub>one tower per day · height = commits · re-rendered nightly by a bot while I sleep</sub></p>
+<p align="center"><sub>each block is a day · height = commits · rendered by robots</sub></p>
 
 <p align="center">
   <picture>
@@ -50,10 +50,10 @@
 │
 │         [██░░░░░░░░░░░░░░░░░░]  foundations · 10%
 │
-└─ tower 001 rises here ────────────────────────────────────
+└───────────────────────────────────────────────────────────
 ```
 
-<p align="center"><sub>plot 001 is reserved — the first public build lands on this block</sub></p>
+<p align="center"><sub>plot 001 — reserved</sub></p>
 
 <h2 align="center">📊 site telemetry</h2>
 
@@ -75,9 +75,9 @@
 <div align="center">
   <img src="https://img.shields.io/badge/status-heads--down_building-00c9ff?style=for-the-badge&labelColor=161b22" alt="status: heads-down building" />
   <img src="https://img.shields.io/badge/contact-right_here_on_GitHub-a371f7?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" alt="contact: right here on GitHub" />
-  <img src="https://img.shields.io/badge/antennas-coming_soon-f7df1e?style=for-the-badge&labelColor=161b22" alt="antennas: coming soon" />
+  <img src="https://img.shields.io/badge/antennas-offline_by_design-f7df1e?style=for-the-badge&labelColor=161b22" alt="antennas: offline by design" />
   <br/><br/>
-  <sub>zero external links, on purpose — antennas go up after the foundation sets. until then, GitHub is the address.</sub>
+  <sub>zero external links, on purpose — GitHub is the address.</sub>
 </div>
 
 <br/>
