@@ -1,0 +1,49 @@
+name: render-profile-assets
+
+on:
+  schedule:
+    - cron: "17 2 * * *"   # nightly, 02:17 UTC (off-peak minute)
+  workflow_dispatch:        # manual "Run workflow" button for the first render
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      # isometric skyline -> profile-3d-contrib/*.svg (night + green variants)
+      - name: Render 3D contribution skyline
+        uses: yoshi389111/github-profile-3d-contrib@v0.9.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      # stats cards as static SVGs (public github-readme-stats instance is unreliable)
+      - name: Render stats card (dark)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&hide_rank=true&bg_color=161b22&title_color=00c9ff&icon_color=f7df1e&text_color=c9d1d9&include_all_commits=true&card_width=400
+          path: profile/stats-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Render stats card (light)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&hide_rank=true&bg_color=f6f8fa&title_color=0969da&icon_color=8250df&text_color=24292f&include_all_commits=true&card_width=400
+          path: profile/stats-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit & push (only if something changed)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-3d-contrib/ profile/
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: re-render profile assets"
+            git push
+          fi
