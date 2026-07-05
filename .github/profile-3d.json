@@ -1,0 +1,24 @@
+[
+  {
+    "type": "normal",
+    "fileName": "profile-skyline-dark.svg",
+    "backgroundColor": "#0d1117",
+    "foregroundColor": "#c9d1d9",
+    "strongColor": "#f7df1e",
+    "weakColor": "#8b949e",
+    "radarColor": "#00c9ff",
+    "growingAnimation": true,
+    "contribColors": ["#161b22", "#1f6feb", "#00c9ff", "#a371f7", "#f7df1e"]
+  },
+  {
+    "type": "normal",
+    "fileName": "profile-skyline-light.svg",
+    "backgroundColor": "#ffffff",
+    "foregroundColor": "#1f2328",
+    "strongColor": "#0969da",
+    "weakColor": "#57606a",
+    "radarColor": "#0969da",
+    "growingAnimation": true,
+    "contribColors": ["#eaeef2", "#54aeff", "#0969da", "#8250df", "#d4a72c"]
+  }
+]
